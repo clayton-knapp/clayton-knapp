@@ -10,7 +10,7 @@
 - Tools: Slack, GitHub, VScode, Netlify, Miro
 - Testing Suites:
 
-### Currently attending Alchemy Code Lab
+### I am currently attending Alchemy Code Lab.
 
 
 <!--
