@@ -4,15 +4,15 @@
 
 **I'm hoping to participate in the software industry in a way that makes the web a more sustainable place for art and creativity as well as a more accessible and inclusive place for marginalized groups. I’m excited about integrating my drive and work ethic into a career in software development. Away from coding I enjoy making music 🎸, film photography 📸, and taking road trips into the unknown 🏔.**
 
-## Tech Stack 💻
-- ◍ Languages: JavaScript ES6 | HTML | CSS
-- ◍ Front-End: React
-- ◍ Back-End: Node | Express | REST API's
-- ◍ Databases: SQL | PostgreSQL | Supabase
-- ◍ Libraries: Socket.io
-- ◍ Testing Suites: JEST | React Testing Library | Supertest | QUnit | Mock Service Worker
-- ◍ Tools: Git | GitHub | VScode | Netlify | Heroku | Postman/Thunderclient | Beekeeper | Miro | Slack
-- ◍ Dev Practices: TDD/BDD | Writing Clean Readable Code | Pair/Mob Programming | Scrum
+## Tech Stack 💻 🥞
+- Languages: JavaScript ES6 | HTML | CSS
+- Front-End: React
+- Back-End: Node | Express | REST API's
+- Databases: SQL | PostgreSQL | Supabase
+- Libraries: Socket.io
+- Testing Suites: JEST | React Testing Library | Supertest | QUnit | Mock Service Worker
+- Tools: Git | GitHub | VScode | Netlify | Heroku | Postman/Thunderclient | Beekeeper | Miro | Slack
+- Dev Practices: TDD/BDD | Writing Clean Readable Code | Pair/Mob Programming | Scrum
 
 ### I am currently attending Alchemy Code Lab.
 
