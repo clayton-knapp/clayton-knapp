@@ -14,7 +14,7 @@
 - Tools: Git | GitHub | VScode | Netlify | Heroku | Postman/Thunderclient | Beekeeper | Miro | Slack
 - Dev Practices: TDD/BDD | Writing Clean Readable Code | Pair/Mob Programming | Scrum
 
-### I am currently attending Alchemy Code Lab.
+### Graduating Alchemy Code Lab June 2022.
 
 
 <!--
