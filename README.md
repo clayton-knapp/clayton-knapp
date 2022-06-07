@@ -11,7 +11,7 @@
 - Databases: SQL | PostgreSQL | Supabase
 - Libraries: Redux | Socket.io | Tone.js
 - Testing Suites: JEST | React Testing Library | Supertest | QUnit | Mock Service Worker
-- Tools: Git | GitHub | VScode | Netlify | Heroku | Postman/Thunderclient | Beekeeper | NPM Publishing | Miro | Slack
+- Tools: Git | GitHub | VScode | Chrome Dev Tools | Testing Playground | Netlify | Heroku | Postman/Thunderclient  | Beekeeper | NPM Publishing | Miro | Slack | Discord
 - Dev Practices: TDD/BDD | Writing Clean Readable Code | Pair/Mob Programming | Scrum
 
 ### Graduated Alchemy Code Lab, completing 1000+ hours of intensive software development training with a focus on TDD/BDD and team oriented problem solving.
